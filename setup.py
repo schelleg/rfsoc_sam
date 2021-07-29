@@ -68,7 +68,6 @@ setup(
     name=package_name,
     version='0.3.1',
     install_requires=[
-        'pynq==2.6',
         'rfsoc-freqplan @ https://github.com/strath-sdr/rfsoc_frequency_planner/archive/v0.1.0.tar.gz',
     ],
     url='https://github.com/strath-sdr/rfsoc_sam',
