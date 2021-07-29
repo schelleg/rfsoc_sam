@@ -68,7 +68,7 @@ setup(
     name=package_name,
     version='0.3.1',
     install_requires=[
-        'rfsoc-freqplan @ https://github.com/strath-sdr/rfsoc_frequency_planner/archive/v0.1.0.tar.gz',
+        'rfsoc-freqplan @ https://github.com/schelleg/rfsoc_frequency_planner,
     ],
     url='https://github.com/strath-sdr/rfsoc_sam',
     license='BSD 3-Clause License',
